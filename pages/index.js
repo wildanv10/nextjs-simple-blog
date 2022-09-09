@@ -21,12 +21,12 @@ export default function Home({ allPostsData }) {
       {/* self introduction section */}
       <section className={utilStyles.headingMd}>
         <p>
-          Hi all, i'm wildan and i'm a web frontend developer who's highly
-          motivated in learn to new things.
+          Hi all, I'm wild and I'm a web frontend developer who is highly
+          motivated to learn new things.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (This is a sample website - to mimic the{" "}
+          <a href="https://nextjs.org/learn"> Next.js tutorial</a>.)
         </p>
       </section>
 
