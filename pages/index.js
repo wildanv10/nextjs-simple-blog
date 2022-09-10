@@ -23,8 +23,8 @@ export default function Home({ allPostsData }) {
       {/* self introduction section */}
       <section className={utilStyles.headingMd}>
         <p>
-          Hi all, I'm wild and I'm a web frontend developer who is highly
-          motivated to learn new things.
+          Hi all, I&apos;m wild and I&apos;m a web frontend developer who is
+          highly motivated to learn new things.
         </p>
         <p>
           (This is a sample website - to mimic the{" "}
